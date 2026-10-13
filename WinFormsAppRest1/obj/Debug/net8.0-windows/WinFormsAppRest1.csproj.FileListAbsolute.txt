@@ -1,0 +1,16 @@
+D:\Sistemas\WinFormsAppRest1\bin\Debug\net8.0-windows\WinFormsAppRest1.exe
+D:\Sistemas\WinFormsAppRest1\bin\Debug\net8.0-windows\WinFormsAppRest1.deps.json
+D:\Sistemas\WinFormsAppRest1\bin\Debug\net8.0-windows\WinFormsAppRest1.runtimeconfig.json
+D:\Sistemas\WinFormsAppRest1\bin\Debug\net8.0-windows\WinFormsAppRest1.dll
+D:\Sistemas\WinFormsAppRest1\bin\Debug\net8.0-windows\WinFormsAppRest1.pdb
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.Form1.resources
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.csproj.GenerateResource.cache
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.AssemblyInfoInputs.cache
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.AssemblyInfo.cs
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.csproj.CoreCompileInputs.cache
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.dll
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\refint\WinFormsAppRest1.dll
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.pdb
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\WinFormsAppRest1.genruntimeconfig.cache
+D:\Sistemas\WinFormsAppRest1\obj\Debug\net8.0-windows\ref\WinFormsAppRest1.dll
